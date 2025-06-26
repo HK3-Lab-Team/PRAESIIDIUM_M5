@@ -1,0 +1,15 @@
+requests==2.32.4
+polars==1.31.0
+pydantic==2.11.7
+fastexcel==0.14.0
+matplotlib==3.10.3
+seaborn==0.13.2
+scipy==1.16.0
+python-dotenv==1.1.1
+openai==1.68.2
+anthropic==0.39.0
+tiktoken==0.9.0
+aiohttp==3.12.13
+certifi==2025.6.15
+pip-system-certs==5.2 
+
