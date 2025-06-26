@@ -72,4 +72,4 @@ ANTHROPIC_API_KEY=your_anthropic_api_key
 
 ## Contact Information
 
-For questions, please contact enrica.troiano@hk3lab.ai or tf@hk3lab.ai.
+For questions, please contact enrica.troiano -at- hk3lab.ai or tf -at- hk3lab.ai.
